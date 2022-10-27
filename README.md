@@ -36,3 +36,7 @@ Below is the breakout of this notebook:
 * Build liturerature searching engine 
 
 **7. Conclusion**
+
+<div align="center">
+  <img alt="Demo1" src="https://github.com/zakaria-aabbou/zakaria-aabbou.github.io/blob/main/img/poster.jpg" />
+</div>
