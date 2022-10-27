@@ -38,5 +38,5 @@ Below is the breakout of this notebook:
 **7. Conclusion**
 
 <div align="center">
-  <img alt="Demo1" src="[https://github.com/zakaria-aabbou/zakaria-aabbou.github.io/blob/main/img/poster.jpg](https://github.com/zakaria-aabbou/Covid_19_topic_modeling/blob/main/img/poster.jpg)" />
+  <img alt="Demo1" src="https://github.com/zakaria-aabbou/Covid_19_topic_modeling/blob/main/img/poster.jpg" />
 </div>
