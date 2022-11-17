@@ -5,7 +5,7 @@ Just a few months ago, 2020 was believed to be as normal of a year as any other 
 
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 52,000 scholarly articles, including over 41,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
 
-With 52,000 articles available, it would be very challenging for someone who only wants to explore a particular topic to have to browse through all articles and find relevant documents. Therefore, in this kernel, I would like to implement an engine that allows viewers to explore different information related to COVID-19 based on the viewer’s topics of interest. These topics can range from: what do we know about COVID-19 risk factors? what do we know about virus genetics, origin, and evolution?, to what do we know about diagnostics and surveillance?, and so on .
+With 52,000 articles available, it would be very challenging for someone who only wants to explore a particular topic to have to browse through all articles and find relevant documents. Therefore, in this kernel, I would like to implement an engine that allows viewers to explore different information related to COVID-19 based on the viewer’s topics of interest. These topics can range from: what do we know about COVID-19 risk factors? what do we know about virus genetics, origin, and evolution?, to what do we know about diagnostics and surveillance?, and so on.
 
 ## Notebook content:
 Below is the breakout of this notebook:
